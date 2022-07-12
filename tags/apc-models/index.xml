@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>APC Models on Nasir Hossein Dad</title>
+    <link>https://github.com/NasirDad/tags/apc-models/</link>
+    <description>Recent content in APC Models on Nasir Hossein Dad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://github.com/NasirDad/tags/apc-models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The roles of Time and Cohort Effects in Rising Wealth Inequality </title>
+      <link>https://github.com/NasirDad/post/project-3/</link>
+      <pubDate>Sat, 11 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/NasirDad/post/project-3/</guid>
+      <description>This paper gauges how inequality evolves over the life cycle when controlling for time and cohort effects. To differentiate between time and cohort effects we construct two alternative regression models. The first model is constructed with a full set of age and year dummies, which controls for time effects. The second model is constructed with a full set of age and cohort dummies, which controls for cohort effects. We construct age profiles and plot the corresponding coefficients for the age dummies from both regressions.</description>
+    </item>
+    
+  </channel>
+</rss>
